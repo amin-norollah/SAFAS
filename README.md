@@ -1,5 +1,4 @@
 # SAFAS(Secure And FAst hardware Scheduler)
-=============================
 
 ![alt text](https://github.com/amin-norollah/safas/blob/main/SAFAS.png)
 
