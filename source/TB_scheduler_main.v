@@ -100,7 +100,7 @@ module TB_scheduler_main #(parameter W = 42, R_Q = 32, M_Q = 512);
 /////////                     //////////
 ////////////////////////////////////////
  initial begin
-    $readmemb("C:/Users/balrug/Desktop/0_my work/PAPER/SecScheduler/Experimental/TaskSet_sec.txt", buffer); //binary 
+    $readmemb("C:/SAFAS/Experimental/TaskSet.txt", buffer); //absolute address of binary file
     clk = 1;
     forever #1 clk = ~clk;
  end   
