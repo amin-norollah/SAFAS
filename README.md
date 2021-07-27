@@ -13,6 +13,10 @@ In this project, the main goal was to develop hardware to schedule tasks taking 
 
 This project has been developed with Verilag hardware description language and in its design, an attempt has been made to use the minimum required hardware. The code in this repository has been simplified as much as possible and has been made available to everyone for research purposes.
 
+**If you use RTHS design in your research, we would appreciate the following citation in any publications to which it has contributed:**
+
+D. Derafshi, A. Norollah, M. Khosroanjam and H. Beitollahi, "HRHS: A High-Performance Real-Time Hardware Scheduler," in IEEE Transactions on Parallel and Distributed Systems, vol. 31, no. 4, pp. 897-908, 1 April 2020,
+doi: [10.1109/TPDS.2019.2952136](https://doi.org/10.1109/TPDS.2019.2952136)
 
 Structure
 ------------
