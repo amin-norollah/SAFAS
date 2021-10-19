@@ -30,23 +30,3 @@ The project consists of two parts:
 
 1. Verilog code that requires software such as xilinx vivado for synthesis and simulation.
 2. c++ code that requires the c++ compiler or visual studio software for compiling c++ code that produces a sequence of real-time task characteristics To be able to test the hardware schedule.
-
-References
-------------
-If you use SAFAS design in your research, we would appreciate the following citation in any publications to which it has contributed:
-```
-D. Derafshi, A. Norollah, M. Khosroanjam and H. Beitollahi, "HRHS: A High-Performance Real-Time Hardware Scheduler," in IEEE Transactions on Parallel and Distributed Systems, vol. 31, no. 4, pp. 897-908, 1 April 2020, doi: 10.1109/TPDS.2019.2952136
-```
-
-Or using the following BibTeX code:
-```
-@ARTICLE{HRHS2020,
-  author={Derafshi, Danesh and Norollah, Amin and Khosroanjam, Mohsen and Beitollahi, Hakem},
-  journal={IEEE Transactions on Parallel and Distributed Systems}, 
-  title={HRHS: A High-Performance Real-Time Hardware Scheduler}, 
-  year={2020},
-  volume={31},
-  number={4},
-  pages={897-908},
-  doi={10.1109/TPDS.2019.2952136}}
-```
