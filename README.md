@@ -13,11 +13,11 @@ In this project, the main goal was to develop hardware to schedule tasks taking 
 
 This project has been developed with Verilog hardware description language and in its design, an attempt has been made to use the minimum required hardware. The code in this repository has been simplified as much as possible and has been made available to everyone for research purposes.
 
-**If you use PAT-Noxim in your research, we would appreciate the following citation in any publications to which it has contributed:**
+**If you use SAFAS in your research, we would appreciate the following citation in any publications to which it has contributed:**
 
-journal: [A. Norollah, H. Beitollahi, Z. Kazemi, and M. Fazeli “A security-aware hardware scheduler for modern multi-core systems with hard real-time constraints”, Elsevier Microprocessors and Microsystems (MICPRO), 2022, DOI: 10.1016/j.micpro.2022.104716.](https://doi.org/10.1016/j.micpro.2022.104716)
+Journal paper: [A. Norollah, H. Beitollahi, Z. Kazemi, and M. Fazeli “A security-aware hardware scheduler for modern multi-core systems with hard real-time constraints”, Elsevier Microprocessors and Microsystems (MICPRO), 2022, DOI: 10.1016/j.micpro.2022.104716.](https://doi.org/10.1016/j.micpro.2022.104716)
 
-conference: [A. Norollah, Z. Kazemi, D. Derafshi, H. Beitollahi and M. Fazeli, "Protecting Security-Critical Real-Time Systems against Fault Attacks in Many-Core Platforms," 2022 CPSSI 4th International Symposium on Real-Time and Embedded Systems and Technologies (RTEST), 2022, pp. 1-6, doi: 10.1109/RTEST56034.2022.9850010.](https://doi.org/10.1109/RTEST56034.2022.9850010)
+Conference paper: [A. Norollah, Z. Kazemi, D. Derafshi, H. Beitollahi and M. Fazeli, "Protecting Security-Critical Real-Time Systems against Fault Attacks in Many-Core Platforms," 2022 CPSSI 4th International Symposium on Real-Time and Embedded Systems and Technologies (RTEST), 2022, pp. 1-6, doi: 10.1109/RTEST56034.2022.9850010.](https://doi.org/10.1109/RTEST56034.2022.9850010)
 
  >Get in touch with me by [a.norollah.official@gmail.com](mailto:a.norollah.official@gmail.com)
 
