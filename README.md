@@ -7,11 +7,11 @@ Welcome to the SAFAS, Secure and Fast FPGA-based Hardware Scheduler for Accelera
 
 Description
 ------------
-Hardware scheduler is the concept of separating task scheduling unit from the Operating System(OS) and leaving it to a specific hardware unit for real-time connected embedded systems. Due to the direct access of the hardware scheduler to the processing units and the possibility of parallel control on each unit, the hardware scheduler is expected to increase efficiency and be able to better manage hardware resources than OS in multi-core systems.
+The concept of a hardware scheduler involves separating the task scheduling unit from the Operating System (OS) and delegating it to a dedicated hardware unit in real-time connected embedded systems. The hardware scheduler has direct access to processing units and can perform parallel control on each unit, making it more efficient in managing hardware resources than the OS in multi-core systems.
 
-In this project, the main goal was to develop hardware to schedule tasks taking into account security issues. Today's embedded systems have the ability to communicate over the internet to realize the IoT technology, they have become very vulnerable to security breaches. The SAFAS is suitable for scheduling the high-security, safety-critical, and their replicas tasks to meet their deadline and can be safe from schedule-based attacks.
+The main objective of this project was to develop hardware for task scheduling that takes into account security concerns. With the increasing use of embedded systems in IoT technology, these systems have become vulnerable to security breaches. The SAFAS (Security Aware Flexible Architecture for Scheduling) is designed to schedule high-security, safety-critical tasks and their replicas to meet their deadlines and remain safe from schedule-based attacks.
 
-This project has been developed with Verilog hardware description language and in its design, an attempt has been made to use the minimum required hardware. The code in this repository has been simplified as much as possible and has been made available to everyone for research purposes.
+In this project, Verilog hardware description language was used to develop the hardware, with an emphasis on using minimal hardware resources. The code in this repository has been simplified as much as possible and is available for research purposes to everyone.
 
 **If you use SAFAS in your research, we would appreciate the following citation in any publications to which it has contributed:**
 
